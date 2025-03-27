@@ -40,3 +40,5 @@ Small and medium retailers lack insights into customer purchasing behavior, lead
 2. Design store layout based on item associations
 3. Develop marketing campaigns focusing on frequently co-purchased items"# Market-Basket-Analysis" 
 "# Market-Basket-Analysis" 
+"# Market-Basket-Analysis-" 
+"# Market-Basket-Analysis-" 
